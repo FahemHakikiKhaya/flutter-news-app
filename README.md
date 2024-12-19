@@ -1,16 +1,7 @@
 # news_app
 
-A new Flutter project.
+Learning json api call on flutter
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/a2b4cfd7-1086-480c-a1ff-cc5c2dbd979e)
+![image](https://github.com/user-attachments/assets/47d0eff2-116c-432e-b38f-b6e0566c02b0)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
